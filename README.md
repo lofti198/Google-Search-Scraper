@@ -1,4 +1,4 @@
-# Google Custom Search API Example in C#
+# Google Search scraper
 
 This project demonstrates how to extract Google search results using the [Google Custom Search API](https://developers.google.com/custom-search/v1/overview) in C#. We use similar code in our [Google SERP scraper](https://websiteextractor.net/google-scraper/). You can use this script to perform a Google search programmatically and retrieve search results including titles, links, and snippets.
 
